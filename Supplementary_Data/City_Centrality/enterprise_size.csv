@@ -1,0 +1,279 @@
+
+"UK Business Counts - enterprises by industry and employment size band"
+"ONS Crown Copyright Reserved [from Nomis on 27 June 2020]"
+"Analysis   :","standard"
+"Date       :","2019"
+"Industry   :","Total"
+"Legal Status:","Total"
+
+"Area","mnemonic","Micro (0 to 9)","Small (10 to 49)","Medium-sized (50 to 249)","Large (250+)"
+
+"ualad09:Manchester","E08000003",19880,2185,440,125
+"msoa2011:Bolton 034","E02001017",235,30,5,5
+"msoa2011:Bury 004","E02001022",180,10,5,0
+"msoa2011:Bury 005","E02001023",115,5,5,0
+"msoa2011:Bury 007","E02001025",610,45,5,0
+"msoa2011:Bury 008","E02001026",995,85,15,0
+"msoa2011:Bury 009","E02001027",215,30,5,0
+"msoa2011:Bury 011","E02001029",305,50,15,5
+"msoa2011:Bury 013","E02001031",355,35,10,5
+"msoa2011:Bury 014","E02001032",120,10,0,0
+"msoa2011:Bury 015","E02001033",140,25,5,0
+"msoa2011:Bury 016","E02001034",300,30,5,0
+"msoa2011:Bury 017","E02001035",220,10,0,0
+"msoa2011:Bury 018","E02001036",155,10,0,0
+"msoa2011:Bury 019","E02001037",320,30,5,0
+"msoa2011:Bury 020","E02001038",490,60,5,0
+"msoa2011:Bury 021","E02001039",115,10,0,0
+"msoa2011:Bury 022","E02001040",180,5,0,0
+"msoa2011:Bury 023","E02001041",200,25,0,0
+"msoa2011:Bury 024","E02001042",505,30,0,0
+"msoa2011:Bury 025","E02001043",110,5,0,0
+"msoa2011:Bury 026","E02001044",605,40,5,0
+"msoa2011:Cheshire East 002","E02003854",215,15,0,0
+"msoa2011:Cheshire East 003","E02003855",300,30,0,0
+"msoa2011:Cheshire East 004","E02003856",460,70,10,5
+"msoa2011:Cheshire East 005","E02003857",260,5,0,0
+"msoa2011:Cheshire East 006","E02003858",795,85,10,5
+"msoa2011:Cheshire East 007","E02003859",1010,95,10,0
+"msoa2011:Cheshire East 008","E02003860",380,15,0,0
+"msoa2011:Cheshire East 011","E02003862",445,35,10,5
+"msoa2011:Manchester 001","E02001045",115,5,0,0
+"msoa2011:Manchester 002","E02001046",175,5,5,0
+"msoa2011:Manchester 003","E02001047",145,10,0,0
+"msoa2011:Manchester 004","E02001048",180,10,0,0
+"msoa2011:Manchester 005","E02001049",155,5,5,0
+"msoa2011:Manchester 006","E02001050",120,10,0,0
+"msoa2011:Manchester 007","E02001051",400,10,0,0
+"msoa2011:Manchester 008","E02001052",570,30,5,0
+"msoa2011:Manchester 009","E02001053",185,10,0,0
+"msoa2011:Manchester 011","E02001055",240,45,15,0
+"msoa2011:Manchester 012","E02001056",95,5,5,0
+"msoa2011:Manchester 013","E02001057",330,35,5,0
+"msoa2011:Manchester 015","E02001059",245,50,10,5
+"msoa2011:Manchester 017","E02001061",200,40,5,0
+"msoa2011:Manchester 018","E02001062",610,120,20,5
+"msoa2011:Manchester 019","E02001063",185,40,10,5
+"msoa2011:Manchester 020","E02001064",200,25,5,0
+"msoa2011:Manchester 021","E02001065",125,5,0,0
+"msoa2011:Manchester 022","E02001066",240,20,0,0
+"msoa2011:Manchester 023","E02001067",160,5,0,0
+"msoa2011:Manchester 024","E02001068",115,10,0,0
+"msoa2011:Manchester 025","E02001069",215,15,5,0
+"msoa2011:Manchester 026","E02001070",205,20,0,0
+"msoa2011:Manchester 027","E02001071",350,25,5,0
+"msoa2011:Manchester 028","E02001072",215,10,0,0
+"msoa2011:Manchester 029","E02001073",350,35,5,0
+"msoa2011:Manchester 030","E02001074",250,10,5,0
+"msoa2011:Manchester 031","E02001075",255,20,0,0
+"msoa2011:Manchester 032","E02001076",125,15,5,0
+"msoa2011:Manchester 033","E02001077",295,15,0,0
+"msoa2011:Manchester 034","E02001078",240,10,0,0
+"msoa2011:Manchester 035","E02001079",125,5,0,0
+"msoa2011:Manchester 036","E02001080",100,10,0,0
+"msoa2011:Manchester 037","E02001081",235,20,0,0
+"msoa2011:Manchester 038","E02001082",230,20,0,5
+"msoa2011:Manchester 039","E02001083",240,30,5,0
+"msoa2011:Manchester 040","E02001084",235,10,0,0
+"msoa2011:Manchester 041","E02001085",115,5,0,0
+"msoa2011:Manchester 042","E02001086",175,15,5,5
+"msoa2011:Manchester 043","E02001087",460,45,0,0
+"msoa2011:Manchester 044","E02001088",115,5,0,0
+"msoa2011:Manchester 045","E02001089",365,35,10,0
+"msoa2011:Manchester 046","E02001090",260,40,10,0
+"msoa2011:Manchester 047","E02001091",150,5,5,0
+"msoa2011:Manchester 048","E02001092",110,5,0,0
+"msoa2011:Manchester 049","E02001093",145,20,10,0
+"msoa2011:Manchester 050","E02001094",85,10,5,0
+"msoa2011:Manchester 051","E02001095",150,35,10,5
+"msoa2011:Manchester 052","E02001096",180,40,15,5
+"msoa2011:Manchester 053","E02001097",175,35,15,5
+"msoa2011:Manchester 054","E02006902",2290,410,80,30
+"msoa2011:Manchester 055","E02006912",3555,335,45,15
+"msoa2011:Manchester 056","E02006913",425,55,15,0
+"msoa2011:Manchester 057","E02006914",185,55,20,10
+"msoa2011:Manchester 058","E02006915",775,80,5,0
+"msoa2011:Manchester 059","E02006916",240,20,5,0
+"msoa2011:Manchester 060","E02006917",1460,175,55,10
+"msoa2011:Oldham 001","E02001098",105,5,0,0
+"msoa2011:Oldham 003","E02001100",160,15,0,0
+"msoa2011:Oldham 004","E02001101",115,5,0,0
+"msoa2011:Oldham 005","E02001102",125,10,0,0
+"msoa2011:Oldham 007","E02001104",130,0,0,0
+"msoa2011:Oldham 008","E02001105",130,15,0,0
+"msoa2011:Oldham 009","E02001106",180,40,10,0
+"msoa2011:Oldham 010","E02001107",115,10,0,0
+"msoa2011:Oldham 011","E02001108",145,35,5,0
+"msoa2011:Oldham 012","E02001109",140,15,0,0
+"msoa2011:Oldham 014","E02001111",295,50,10,5
+"msoa2011:Oldham 015","E02001112",210,35,10,0
+"msoa2011:Oldham 016","E02001113",170,35,5,0
+"msoa2011:Oldham 017","E02001114",195,40,5,0
+"msoa2011:Oldham 019","E02001116",155,25,5,0
+"msoa2011:Oldham 022","E02001119",215,20,5,0
+"msoa2011:Oldham 024","E02001121",300,40,10,0
+"msoa2011:Oldham 026","E02001123",110,10,0,0
+"msoa2011:Oldham 027","E02001124",130,25,0,0
+"msoa2011:Oldham 028","E02001125",175,50,15,5
+"msoa2011:Oldham 029","E02001126",115,10,0,5
+"msoa2011:Oldham 030","E02001127",75,10,0,0
+"msoa2011:Oldham 031","E02001128",275,30,10,5
+"msoa2011:Oldham 032","E02001129",185,25,0,0
+"msoa2011:Oldham 033","E02001130",130,10,0,0
+"msoa2011:Oldham 034","E02001131",80,5,0,0
+"msoa2011:Oldham 035","E02006860",240,25,5,0
+"msoa2011:Rochdale 006","E02001137",225,10,5,0
+"msoa2011:Rochdale 007","E02001138",260,15,0,0
+"msoa2011:Rochdale 009","E02001140",195,40,5,0
+"msoa2011:Rochdale 010","E02001141",475,75,15,5
+"msoa2011:Rochdale 011","E02001142",205,5,0,0
+"msoa2011:Rochdale 012","E02001143",220,25,5,0
+"msoa2011:Rochdale 013","E02001144",155,15,5,0
+"msoa2011:Rochdale 015","E02001146",295,40,10,5
+"msoa2011:Rochdale 016","E02001147",165,5,5,0
+"msoa2011:Rochdale 017","E02001148",305,45,15,0
+"msoa2011:Rochdale 018","E02001149",335,40,10,0
+"msoa2011:Rochdale 019","E02001150",200,35,10,0
+"msoa2011:Rochdale 020","E02001151",340,55,5,0
+"msoa2011:Rochdale 021","E02001152",180,20,10,5
+"msoa2011:Rochdale 022","E02001153",185,10,0,0
+"msoa2011:Rochdale 023","E02001154",255,30,0,0
+"msoa2011:Rochdale 024","E02001155",325,30,5,0
+"msoa2011:Rochdale 025","E02001156",235,5,0,0
+"msoa2011:Rossendale 008","E02005285",220,25,10,0
+"msoa2011:Salford 003","E02001159",150,20,5,0
+"msoa2011:Salford 005","E02001161",140,20,0,0
+"msoa2011:Salford 006","E02001162",135,15,0,0
+"msoa2011:Salford 008","E02001164",175,25,5,0
+"msoa2011:Salford 009","E02001165",150,35,10,0
+"msoa2011:Salford 010","E02001166",435,30,10,0
+"msoa2011:Salford 011","E02001167",205,5,0,0
+"msoa2011:Salford 012","E02001168",245,40,5,5
+"msoa2011:Salford 014","E02001170",390,25,5,0
+"msoa2011:Salford 015","E02001171",120,5,0,0
+"msoa2011:Salford 016","E02001172",445,30,5,0
+"msoa2011:Salford 017","E02001173",1230,30,5,0
+"msoa2011:Salford 018","E02001174",105,5,0,0
+"msoa2011:Salford 019","E02001175",110,10,0,0
+"msoa2011:Salford 020","E02001176",455,70,20,5
+"msoa2011:Salford 021","E02001177",325,50,10,5
+"msoa2011:Salford 022","E02001178",1200,125,25,5
+"msoa2011:Salford 023","E02001179",80,10,0,0
+"msoa2011:Salford 024","E02001180",50,10,0,0
+"msoa2011:Salford 025","E02001181",115,10,0,0
+"msoa2011:Salford 026","E02001182",105,10,5,0
+"msoa2011:Salford 027","E02001183",155,15,0,0
+"msoa2011:Salford 028","E02001184",1860,115,30,15
+"msoa2011:Stockport 001","E02001187",120,5,0,0
+"msoa2011:Stockport 002","E02001188",210,25,0,0
+"msoa2011:Stockport 003","E02001189",310,45,5,0
+"msoa2011:Stockport 004","E02001190",40,5,0,0
+"msoa2011:Stockport 005","E02001191",135,10,0,0
+"msoa2011:Stockport 006","E02001192",290,30,5,0
+"msoa2011:Stockport 007","E02001193",395,55,10,0
+"msoa2011:Stockport 008","E02001194",245,25,0,0
+"msoa2011:Stockport 009","E02001195",320,70,20,0
+"msoa2011:Stockport 010","E02001196",275,15,0,0
+"msoa2011:Stockport 011","E02001197",235,25,5,5
+"msoa2011:Stockport 012","E02001198",190,20,0,0
+"msoa2011:Stockport 013","E02001199",315,40,10,0
+"msoa2011:Stockport 014","E02001200",495,65,20,5
+"msoa2011:Stockport 015","E02001201",125,10,0,0
+"msoa2011:Stockport 016","E02001202",250,25,10,0
+"msoa2011:Stockport 018","E02001204",165,15,5,0
+"msoa2011:Stockport 019","E02001205",315,50,10,5
+"msoa2011:Stockport 020","E02001206",295,35,0,0
+"msoa2011:Stockport 021","E02001207",160,10,0,0
+"msoa2011:Stockport 022","E02001208",305,45,10,5
+"msoa2011:Stockport 023","E02001209",200,20,0,0
+"msoa2011:Stockport 024","E02001210",100,0,0,0
+"msoa2011:Stockport 025","E02001211",255,15,5,0
+"msoa2011:Stockport 026","E02001212",100,10,10,0
+"msoa2011:Stockport 027","E02001213",345,25,0,5
+"msoa2011:Stockport 028","E02001214",355,25,5,0
+"msoa2011:Stockport 030","E02001216",290,15,0,0
+"msoa2011:Stockport 031","E02001217",300,50,5,0
+"msoa2011:Stockport 032","E02001218",215,5,0,0
+"msoa2011:Stockport 033","E02001219",200,10,5,5
+"msoa2011:Stockport 034","E02001220",165,5,5,0
+"msoa2011:Stockport 035","E02001221",195,10,0,0
+"msoa2011:Stockport 036","E02001222",290,30,10,5
+"msoa2011:Stockport 037","E02001223",270,15,0,0
+"msoa2011:Stockport 038","E02001224",210,15,0,0
+"msoa2011:Stockport 039","E02001225",385,35,10,0
+"msoa2011:Stockport 040","E02001226",225,25,0,0
+"msoa2011:Stockport 041","E02001227",225,10,0,0
+"msoa2011:Stockport 042","E02001228",390,35,5,0
+"msoa2011:Tameside 002","E02001230",135,5,0,0
+"msoa2011:Tameside 004","E02001232",130,5,0,0
+"msoa2011:Tameside 005","E02001233",120,5,0,0
+"msoa2011:Tameside 006","E02001234",100,5,0,0
+"msoa2011:Tameside 007","E02001235",205,20,0,5
+"msoa2011:Tameside 008","E02001236",135,15,0,0
+"msoa2011:Tameside 010","E02001238",190,20,0,0
+"msoa2011:Tameside 011","E02001239",140,5,0,0
+"msoa2011:Tameside 012","E02001240",95,5,0,0
+"msoa2011:Tameside 013","E02001241",525,100,15,5
+"msoa2011:Tameside 014","E02001242",160,15,5,0
+"msoa2011:Tameside 015","E02001243",365,50,5,0
+"msoa2011:Tameside 016","E02001244",105,5,0,0
+"msoa2011:Tameside 017","E02001245",300,55,15,0
+"msoa2011:Tameside 018","E02001246",90,0,0,0
+"msoa2011:Tameside 019","E02001247",120,25,5,0
+"msoa2011:Tameside 020","E02001248",205,35,5,0
+"msoa2011:Tameside 021","E02001249",190,25,0,0
+"msoa2011:Tameside 022","E02001250",205,15,0,0
+"msoa2011:Tameside 024","E02001252",160,5,5,0
+"msoa2011:Tameside 025","E02001253",210,40,10,0
+"msoa2011:Tameside 026","E02001254",60,5,0,0
+"msoa2011:Tameside 028","E02001256",305,40,5,0
+"msoa2011:Tameside 029","E02001257",125,5,0,0
+"msoa2011:Tameside 030","E02001258",170,10,0,0
+"msoa2011:Trafford 001","E02001259",310,30,5,5
+"msoa2011:Trafford 002","E02001260",500,95,30,10
+"msoa2011:Trafford 003","E02001261",285,30,5,10
+"msoa2011:Trafford 004","E02001262",255,25,5,5
+"msoa2011:Trafford 005","E02001263",230,10,0,0
+"msoa2011:Trafford 006","E02001264",360,95,20,5
+"msoa2011:Trafford 008","E02001266",195,30,5,0
+"msoa2011:Trafford 009","E02001267",305,35,5,0
+"msoa2011:Trafford 010","E02001268",190,20,0,0
+"msoa2011:Trafford 011","E02001269",195,25,0,0
+"msoa2011:Trafford 012","E02001270",390,40,15,5
+"msoa2011:Trafford 013","E02001271",160,10,0,0
+"msoa2011:Trafford 014","E02001272",300,20,5,0
+"msoa2011:Trafford 015","E02001273",505,60,10,0
+"msoa2011:Trafford 016","E02001274",265,10,0,0
+"msoa2011:Trafford 017","E02001275",145,25,10,0
+"msoa2011:Trafford 018","E02001276",155,5,0,0
+"msoa2011:Trafford 019","E02001277",305,50,10,0
+"msoa2011:Trafford 020","E02001278",315,30,0,0
+"msoa2011:Trafford 021","E02001279",220,5,0,0
+"msoa2011:Trafford 022","E02001280",200,5,0,0
+"msoa2011:Trafford 023","E02001281",260,15,0,0
+"msoa2011:Trafford 024","E02001282",1220,50,15,5
+"msoa2011:Trafford 025","E02001283",1195,135,35,5
+"msoa2011:Trafford 026","E02001284",515,30,0,0
+"msoa2011:Trafford 028","E02001286",470,30,5,0
+
+
+
+"","All figures are rounded to avoid disclosure. Values may be rounded down"
+"","to zero and so all zeros are not necessarily true zeros. Totals across"
+"","tables may differ by minor amounts due to the disclosure methods used."
+"","Furthermore, figures may differ by small amounts from those published in"
+"","ONS outputs"
+"","due to the application of a different rounding methodology."
+"",""
+
+"","In 2015, ONS extended the coverage of businesses to include a population of"
+"","solely PAYE based businesses that were previously excluded because of the risk"
+"","of duplication. In total, in 2015, 105,000 businesses have been"
+"","added.Improvements in matching of administrative data and research into those units excluded"
+"","has indicated that the risk of duplication is very small. The addition of"
+"","these businesses brings the publication in line with Business Demography and the"
+"","BIS Business Population Estimates, both of which include these businesses. For"
+"","more information, see"
+"","http://www.nomisweb.co.uk/articles/news/files/UKBusinessCoverage.pdf"
+"",""
+
