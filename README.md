@@ -9,7 +9,7 @@ R code for the whole analysis.
 
 - **qgis2web_accessibility_level**  
 
-`index.html` presents map of accessibility level in Greater Manchester from time threshold 5 minutes to 45 minutes.
+`index.html` presents map of accessibility level in Greater Manchester from time threshold 5 to 45 minutes generated from `emp_flow_accessibility.qgz`.
 
 - **Supplementary_Data** (source: [InFuse](http://infuse.ukdataservice.ac.uk), [Nomis](https://www.nomisweb.co.uk), 
 [ONS](http://geoportal.statistics.gov.uk/datasets/middle-layer-super-output-areas-december-2011-boundaries-ew-bfc-1?geometry=-17.993%252C50.522%252C13.647%252C55.161))  
@@ -22,4 +22,10 @@ N.B. Road network data should be intersected with `uber_movement_zones.shp` in s
 
 - **Weekdays** (source: [Uber Movement](https://movement.uber.com/?lang=en-GB))  
 
-Main Uber Movement travel times data for weekdays. There are 15 files for each quarter from 2016Q1 to 2019Q3.
+Main Uber Movement travel times data for weekdays. There are 15 files for each quarter from 2016Q1 to 2019Q3.  
+
+- **uber_movement_zones.qgz**
+This QGIS project file contains the area covered by Uber Movement data.  
+
+- **emp_flow_accessibility.qgz**
+This QGIS project file contains the map protraying the change of accessibility level in Greater Manchester from time threshold 5 to 45 minutes.
