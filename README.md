@@ -29,7 +29,7 @@ This repository stores R code and datasets that are needed in this dissertation.
     - and transport factor `distance_to_empcentres.csv` (commute distance in subfoler *socio-economic_characteristics_GM*).  
     
       Road network data are too large to upload to this repository. Please find this dataset on [Ordnance Survey](https://osdatahub.os.uk/downloads/open/OpenRoads).  
-      N.B. Road network data should be intersected with `uber_movement_zones.shp` in subfolder *MSOA_2011_Census_England* before use.
+      **N.B.** Road network data should be intersected with `uber_movement_zones.shp` in subfolder *MSOA_2011_Census_England* before use.
 
 
 - **Weekdays** (source: [Uber Movement](https://movement.uber.com/?lang=en-GB))  
