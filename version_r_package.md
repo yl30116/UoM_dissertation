@@ -1,4 +1,5 @@
-**Version of R Software**
+**Version of R Software**  
+
 3.6.1 (2019-07-05).
 
 **Version of R Library**  
